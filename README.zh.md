@@ -12,7 +12,7 @@
 <img width="614" height="202" alt="屏幕截图 2026-08-20 174445" src="https://github.com/user-attachments/assets/d63b9119-5059-4760-8953-5e727e74d91d" />
 
 
-## 安装（本机已自动安装）
+## 安装
 
 本插件已经装入桌面配置文件（`~/.dsh/profiles/desktop`）：
 
