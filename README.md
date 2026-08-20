@@ -27,8 +27,7 @@ its exact position inside the reasoning text.
 
 The plugin is already installed into the desktop profile
 (`~/.dsh/profiles/desktop`): a junction at
-`~/.dsh/profiles/node_modules/dsh-plugin-letme-annotator` (target:
-`autoHighlight_LetMe` in this folder) plus an entry in the profile manifest's
+`~/.dsh/profiles/node_modules/dsh-plugin-letme-annotator` plus an entry in the profile manifest's
 `dsh.profile.bundles`. **Restart DSH Desktop** to activate.
 
 Manual install elsewhere: junction the `autoHighlight_LetMe` package folder
