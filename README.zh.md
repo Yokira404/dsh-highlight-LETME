@@ -1,4 +1,4 @@
-**语言:** [English](README.md) | [简体中文](README.zh-CN.md)
+**语言:** [English](README.md) | [简体中文](README.zh.md)
 # 【插件】自动标注LetMe（dsh-plugin-letme-annotator）
 
 一个 DSH Desktop / DeepSeek Harness 客户端插件：当助手思考过程（Think / 思考块）里出现 **let me** 时，自动在 **Think** 标签右侧标出一个红色提示 **“出现了 let me”**，并把思考文本中**每一处** `let me` 出现的位置用红色精确标出。
