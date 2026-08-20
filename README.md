@@ -53,3 +53,5 @@ const BADGE_LABEL = "出现了 let me";  // badge text
 ```
 
 Then restart DSH Desktop.
+<img width="614" height="202" alt="屏幕截图 2026-08-20 174445" src="https://github.com/user-attachments/assets/f8d7c3df-8c5e-4fed-bb0b-1a0f9fb618fa" />
+
