@@ -1,12 +1,12 @@
 # 【插件】自动标注LetMe — dsh-plugin-letme-annotator
 
-<img width="614" height="202" alt="屏幕截图 2026-08-20 174445" src="https://github.com/user-attachments/assets/f8d7c3df-8c5e-4fed-bb0b-1a0f9fb618fa" />
-
 A DSH Desktop / DeepSeek Harness **client plugin** that watches the assistant's
 thinking blocks and, whenever the reasoning text contains **let me**
 (case-insensitive), places a red badge **“出现了 let me”** right after the
 **Think** label and highlights every actual occurrence of the phrase in red at
 its exact position inside the reasoning text.
+
+<img width="614" height="202" alt="屏幕截图 2026-08-20 174445" src="https://github.com/user-attachments/assets/f8d7c3df-8c5e-4fed-bb0b-1a0f9fb618fa" />
 
 - Works while reasoning is streaming; the badge appears the moment `let me`
   shows up and disappears again if the text is rewritten without it.
