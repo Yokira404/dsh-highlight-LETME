@@ -1,4 +1,4 @@
-**Languages:** [English](README.md) | [简体中文](README.zh-CN.md)
+**Languages:** [English](README.md) | [简体中文](README.zh.md)
 # 【插件】自动标注LetMe — dsh-plugin-letme-annotator
 
 A DSH Desktop / DeepSeek Harness **client plugin** that watches the assistant's
