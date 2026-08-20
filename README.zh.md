@@ -16,7 +16,7 @@
 
 本插件已经装入桌面配置文件（`~/.dsh/profiles/desktop`）：
 
-1. 包目录通过 junction 链接到 `~/.dsh/profiles/node_modules/dsh-plugin-letme-annotator`（目标为本目录下的 `autoHighlight_LetMe` 文件夹）；
+1. 包目录通过 junction 链接到 `~/.dsh/profiles/node_modules/dsh-plugin-letme-annotator`；
 2. `~/.dsh/profiles/desktop/package.json` 的 `dsh.profile.bundles` 已加入 `dsh-plugin-letme-annotator`。
 
 **重启 DSH Desktop 后生效**（关闭应用窗口后重新打开）。重启后，在任意会话里让模型思考，一旦思考中出现 “let me”，Think 标签右侧就会显示红色“出现了 let me”，且正文中每一处 let me 都会被标红。
