@@ -5,9 +5,6 @@ thinking blocks and, whenever the reasoning text contains **let me**
 (case-insensitive), places a red badge **“出现了 let me”** right after the
 **Think** label and highlights every actual occurrence of the phrase in red at
 its exact position inside the reasoning text.
-
-<img width="614" height="202" alt="屏幕截图 2026-08-20 174445" src="https://github.com/user-attachments/assets/f8d7c3df-8c5e-4fed-bb0b-1a0f9fb618fa" />
-
 - Works while reasoning is streaming; the badge appears the moment `let me`
   shows up and disappears again if the text is rewritten without it.
 - Counts occurrences precisely: `出现了 let me ×2` for repeated matches. The
@@ -20,6 +17,10 @@ its exact position inside the reasoning text.
   unavailable.
 - Detects matches beyond the first line even while the Think row is collapsed
   (it reads the session snapshot, with a DOM-text fallback).
+
+  
+<img width="614" height="202" alt="屏幕截图 2026-08-20 174445" src="https://github.com/user-attachments/assets/f8d7c3df-8c5e-4fed-bb0b-1a0f9fb618fa" />
+
 
 ## Install
 
