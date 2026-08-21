@@ -1,6 +1,6 @@
-# dsh-plugin-letme-annotator bundle patch: compose this package as one loader
-# entry of the active profile. The row id must be unique across the profile;
-# the row `name` is the npm package name the loader resolves.
+# dsh-plugin-letme-annotator bundle patch (v2): compose this package as one
+# loader entry of the active profile. The row id must be unique across the
+# profile; the row `name` is the npm package name the loader resolves.
 - insert:
     - id: letme-annotator
       name: dsh-plugin-letme-annotator

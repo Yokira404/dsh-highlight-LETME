@@ -1,7 +1,7 @@
 {
   "name": "dsh-plugin-letme-annotator",
-  "version": "1.0.0",
-  "description": "let me",
+  "version": "2.0.0",
+  "description": "DSH client plugin: red-badges and word-level highlights every \"let me\" occurrence in assistant Think/reasoning blocks (自动标注LetMe).",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
